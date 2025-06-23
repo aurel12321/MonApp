@@ -14,7 +14,7 @@ import { CACHE_SIZE_UNLIMITED, initializeFirestore } from "firebase/firestore";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-    apiKey: "AIzaSyDgQGKsNC7d0RZdOlgdju0eFwy2FU89J1U",
+ 
     authDomain: "monapp-95601.firebaseapp.com",
     databaseURL: "https://monapp-95601-default-rtdb.firebaseio.com",
     projectId: "monapp-95601",
